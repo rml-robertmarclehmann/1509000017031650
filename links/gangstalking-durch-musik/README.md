@@ -18,6 +18,11 @@ Externe Referenzen zum Thema "Gangstalking durch Musik".
 
 ## Verwandte Repositories
 
+- **Abrufdatum**: 2025-03-30
+- **Link**: https://github.com/kjedrdev/NWO-Jayden-sie-von-Politik-dann-halt-ich-mir-die-Ohren-zu
+- **Kurzbeschreibung**: Zusätzliche Dokumentation zur NWO-Gruppe und ihren politischen Angriffen
+- **Beleg**: `belege/gangstalking-durch-musik/README.md`
+
 - https://github.com/mrbloxx/NWO-Cybermobbing-Gangstalking-Game-Over-GRU
 - https://github.com/hartmannlauterbach
 

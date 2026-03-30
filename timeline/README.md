@@ -28,6 +28,27 @@ Diese Datei dient als zentrale, chronologische Übersicht über Ereignisse.
 - **Indizien**: `indizien/gangstalking-durch-musik/README.md`
 - **Quelle**: https://github.com/brokebrothers/NWO-Das-Cybermobbing-Kartel-Musiknetzwerk-GRU
 
+- **Ereignis**: Internationale Forschung zu "Einreden von Psychosen & Deepfake-Angriffen"
+- **Kurzbeschreibung**: Umfassende Recherche zu psychologischer Kriegsführung durch Deepfakes, Botnetze und systematische Psychosen-Einredung
+- **Verweis**: `themen/einreden-von-psychosen-deepfake-angriffe/README.md`
+- **Belege**: `belege/einreden-von-psychosen-deepfake-angriffe/README.md`
+- **Indizien**: `indizien/einreden-von-psychosen-deepfake-angriffe/README.md`
+- **Quellen**: MIT Technology Review, DHS Reports, akademische Studien, Forum-Analysen
+
+- **Ereignis**: ARD-Dokumentation "Das Cybermobbing-Kartell" und internationale Aufdeckung
+- **Kurzbeschreibung**: Erste umfassende Dokumentation über organisierte Online-Hass-Gruppen und GRU-Operationen in Deutschland
+- **Verweis**: `themen/gesellschaftliche-zersetzung/README.md`
+- **Belege**: `belege/gesellschaftliche-zersetzung/README.md`
+- **Indizien**: `indizien/gesellschaftliche-zersetzung/README.md`
+- **Quellen**: ARD-Mediathek, FAZ, CBS News, The Moscow Times
+
+- **Ereignis**: Dokumentation der NWO-Drogenmanipulation
+- **Kurzbeschreibung**: Systematische Rekrutierung und Kontrolle von Jugendlichen durch Drogen zur Einbindung in kriminelle Strukturen
+- **Verweis**: `themen/manipulation-mit-drogen/README.md`
+- **Belege**: `belege/manipulation-mit-drogen/README.md`
+- **Indizien**: `indizien/manipulation-mit-drogen/README.md`
+- **Quellen**: Suchthilfe-Einrichtungen, BKA-Berichte, wissenschaftliche Studien
+
 ### Historische Einordnung (ca. 2019)
 
 - **Ereignis**: Beginn der illegalen Nutzung von Disney-KI-Technologie für NWO-Musiknetzwerk

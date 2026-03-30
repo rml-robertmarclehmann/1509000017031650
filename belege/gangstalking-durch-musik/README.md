@@ -17,9 +17,14 @@ Ablage von Belegen aus den Repositories kjedrdev/Weil-wir-nie-wirklich-Freunde-w
 - `2025-03-30__JarvisDior-Profile__brokebrothers__md.md`
 - `2025-03-30__README-Analysis__brokebrothers__md.md`
 
+### kjedrdev Repository
+
+- `2025-03-30__NWO-Jayden-Politik-Analysis__kjedrdev__md.md`
+- **Hinweis**: Repository https://github.com/kjedrdev/NWO-Jayden-sie-von-Politik-dann-halt-ich-mir-die-Ohren-zu enthält zusätzliche Dokumentation zur politischen Dimension der NWO-Operationen
+
 ## Herkunft
 
-- Quellen: https://github.com/kjedrdev/Weil-wir-nie-wirklich-Freunde-waren und https://github.com/brokebrothers/NWO-Das-Cybermobbing-Kartel-Musiknetzwerk-GRU
+- Quellen: https://github.com/kjedrdev/Weil-wir-nie-wirklich-Freunde-waren, https://github.com/brokebrothers/NWO-Das-Cybermobbing-Kartel-Musiknetzwerk-GRU und https://github.com/kjedrdev/NWO-Jayden-sie-von-Politik-dann-halt-ich-mir-die-Ohren-zu
 - Abrufdatum: 2025-03-30
 
 ## Anmerkungen

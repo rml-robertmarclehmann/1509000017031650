@@ -40,6 +40,13 @@ Dokumentation von Vorfällen, bei denen Musik als Medium für Cybermobbing/Gangs
   - **Strafrechtliche Ermittlungen**: Julius Falkenhain-Walkling (Peine) für "Krijo Stalka" Projekt
   - **Internationale Netzwerke**: Koordination mit NSA, CIA, Europol, Mossad, MI5 etc.
 
+### Repository: kjedrdev/NWO-Jayden-sie-von-Politik-dann-halt-ich-mir-die-Ohren-zu
+
+- **Quelle**: https://github.com/kjedrdev/NWO-Jayden-sie-von-Politik-dann-halt-ich-mir-die-Ohren-zu
+- **Beschreibung**: Zusätzliche Dokumentation zur NWO-Gruppe und ihren politischen Angriffen
+- **Kontext**: Teil der umfassenden NWO-Dokumentation durch kjedrdev
+- **Verbindung**: Ergänzt die Musiknetzwerk-Analyse um politische Dimension
+
 ## Kriminelle Fälle
 
 ### Julius Falkenhain-Walkling (Peine)
