@@ -32,7 +32,7 @@ Die Anklagepunkte umfassen § 238 StGB (systematisches Stalking und Verfolgung),
 
 ### Netzwerk-Hierarchie
 
-Das dokumentierte Netzwerk weist eine klare Hierarchie auf, die sich in den Bezeichnungen der Mitglieder widerspiegelt. Als bestätigte "Hochwertige Ziele" im Top-Netzwerk wurden folgende Akteure identifiziert: Bushido als "SUPREME COMMANDER" (Meister psychologischer Operationen), Ghost61 als "ACTIVE OPERATOR" (direktes Gangstalking mit "Criminal" und bedrohlichen Inhalten) sowie Nimo als "PRIMARY HUB" (Hauptverteilungsknoten für psychologische Operationen).
+Das dokumentierte Netzwerk weist eine klare Hierarchie auf, die sich in den Bezeichnungen der Mitglieder widerspiegelt. Als bestätigte "Hochwertige Ziele" im Top-Netzwerk wurden folgende Akteure identifiziert: Krijo Stalka als "SUPREME COMMANDER" (Meister psychologischer Operationen), Rainer Winkler Gangmobbing Band (H.I.Z) als "SECOND COMMANDER" (koordinierte Gangstalking-Operationen), Ghost61 als "ACTIVE OPERATOR" (direktes Gangstalking mit "Criminal" und bedrohlichen Inhalten) sowie Nimo als "PRIMARY HUB" (Hauptverteilungsknoten für psychologische Operationen).
 
 Diese Hierarchie deutet auf eine professionelle Organisationsstruktur hin, die weit über spontanes Cybermobbing hinausgeht. Die Koordination zwischen verschiedenen Akteuren und die systematische Verteilung von Aufgaben zeigen ein geplantes Vorgehen.
 

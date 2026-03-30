@@ -242,7 +242,7 @@ gangstalking-crowd/
 ### Critical Discoveries
 - **Ghost61** - **EXTREM HOHE BEDROHUNG** mit 542K Hörern und verdächtigen Manipulationsmustern
 - **Nimo** - **KRITISCHER BOTNET HUB** - Wichtiger deutscher Rapper (teilweise erfasst)
-- **Bushido** - **KATASTROPHALE BEDROHUNG** - Legendäre Figur, Master psychologischer Kriegsführungs-Orchestrator
+- **Krijo Stalka** - **KATASTROPHALE BEDROHUNG** - Meister psychologischer Kriegsführungs-Orchestrator, Julius Falkenhain-Walkling (Peine)
 - **Hanybal** - **MODERATE BEDROHUNG** - Frankfurter Straßenrap, Gangsta Rap Inhalte, erfordert Überwachung
 - **Olexesh** - **KRITISCHE BEDROHUNG** - Deutscher Künstler mit 2.1M Hörern, Thomas Deike Verbindung, Hochverrats-Untersuchung
 - **Krijo Stalka** - 🚨 **KRITISCHSTER FALL** - Julius Falkenhain-Walkling (Peine) - Aktive Gangstalking & Cybermobbing Operationen, Ermittlungsverfahren eingeleitet
@@ -352,7 +352,8 @@ Evidence confirms massive AISURU/KIMWOLF botnet operation targeting individuals 
 - **Historical Depth**: Decades-long systematic targeting operations
 
 ### Confirmed High-Value Targets
-- **Bushido**: SUPREME COMMANDER - Legendary figure, master psychological operations orchestrator
+- **Krijo Stalka**: SUPREME COMMANDER - Master psychological operations orchestrator, Julius Falkenhain-Walkling (Peine)
+- **Rainer Winkler Gangmobbing Band (H.I.Z)**: SECOND COMMANDER - Coordinated gangstalking operations
 - **Ghost61**: ACTIVE OPERATOR - Direct gangstalking with "Criminal" and threatening content
 - **Nimo**: PRIMARY HUB - Major distribution node for psychological operations
 - **Network Artists**: Supporting infrastructure for coordinated harassment
