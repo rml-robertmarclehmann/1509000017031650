@@ -1,0 +1,3 @@
+https://github.com/conversationai/harassment-manager
+https://github.com/AssoEchap/stalkerware-indicators
+https://github.com/Mrezvan94/Harassment-Corpus
